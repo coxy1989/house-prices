@@ -4,7 +4,7 @@ This repository contains an exploratory data analysis, data pipeline and models 
 
 What's in the box?
 
-- A [notebook]() which provides an EDA, data pipleine and models.
+- A [notebook](https://nbviewer.jupyter.org/github/coxy1989/house-prices/blob/master/house_prices.ipynb) which provides an EDA, data pipleine and models.
 - The `train.csv` and `test.csv` files provided by kaggle.
 
 ## Quickstart
