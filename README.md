@@ -18,3 +18,5 @@ What's in the box?
 3. `source activate house-prices`
 
 4. `jupyter notebook`
+
+*This repository was split out from [mlsabbatical](https://github.com/coxy1989/mlsabbatical)*
